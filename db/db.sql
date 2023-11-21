@@ -131,3 +131,4 @@ JOIN
     stat ON joueur.idJ = stat.idJ
 GROUP BY
     joueur.idJ, joueur.nomJ;
+
